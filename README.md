@@ -495,7 +495,9 @@ span{
 
 
 ## OUTPUT:
-![web 01](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/b259d125-81e6-4602-b851-2a10358c1fa9)
+![web 03](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/abb06f2a-e11a-4015-98df-ff833cb302c4)# EX01 Developing a Simple Webserver
+![web 02](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/30ebfed3-849e-4977-bf1d-4ecc8dbda6fd)
+![web 01](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/9a7368c9-e153-4e30-87f1-a55afcbf0855)
 
 
 ## RESULT:
