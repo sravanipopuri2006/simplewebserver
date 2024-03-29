@@ -1,4 +1,4 @@
-# EX01 Developing a Simple Webserver
+![web 03](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/abb06f2a-e11a-4015-98df-ff833cb302c4)# EX01 Developing a Simple Webserver
 ## Date:
 
 ## AIM:
@@ -495,12 +495,7 @@ span{
 
 
 ## OUTPUT:
-![web 01](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/b2a270bf-f8cf-4ddc-b2fa-35dfe3e31f93)
-
-![web 02](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/1d4af31f-c757-4b34-bddb-ec0260fc030d)
-
-![web 03](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/d8fec8d8-e690-4b03-9dbd-4e82bb13c36e)
-
+![web 01](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/b259d125-81e6-4602-b851-2a10358c1fa9)
 
 
 ## RESULT:
