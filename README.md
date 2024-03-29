@@ -495,7 +495,10 @@ span{
 
 
 ## OUTPUT:
-![image](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/4908448a-a24d-4b0b-ac88-8dda08359e9a)
+![web 01](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/b2a270bf-f8cf-4ddc-b2fa-35dfe3e31f93)
+![web 02](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/1d4af31f-c757-4b34-bddb-ec0260fc030d)
+![web 03](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/d8fec8d8-e690-4b03-9dbd-4e82bb13c36e)
+
 
 
 ## RESULT:
