@@ -493,8 +493,9 @@ span{
 ```
 ## OUTPUT:
 ![web 03](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/6f47ce43-42bd-489b-bbf6-19a1c2c27dbd)
-![web 02](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/aec2f253-baf7-462d-86b2-6dbd28cb9837)
 ![web 01](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/045163d5-4067-4a27-b604-a7e097bf98ac)
+![web 02](https://github.com/sravanipopuri2006/simplewebserver/assets/139778301/aec2f253-baf7-462d-86b2-6dbd28cb9837)
+
 
 
 
