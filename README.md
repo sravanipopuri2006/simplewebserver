@@ -221,9 +221,9 @@ Testing the webserver.
     </div>
 </footer>
 </html>
-
+~~~
 ## CSS CODE
-
+~~~
 
 *{
     margin: 0;
